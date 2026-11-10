@@ -1,0 +1,12 @@
+,Prior.,IP,Criticidad,ANC proy. (%),Vol. perdido (mil mill. gal/año),Presupuesto (M B/.),% del presupuesto,Cuadrillas,Agua recuperada (mil mill. gal/año),Cobertura de necesidad,Acción recomendada
+PANAMA METRO,1,0.7504,0.6161,37.8333,37.399,57.4684,57.4684,12,15.6025,0.7385,sectorización y control de presiones
+BOCAS DEL TORO,2,0.4946,0.7026,66.06,4.0526,6.9136,6.9136,1,1.7829,0.821,auditar micromedición y verificar reporte (alerta alta); detección y reparación de fugas + control de conexiones ilegales
+COLON,3,0.3991,0.4765,53.34,9.5575,11.5122,11.5122,2,3.4797,0.58,detección y reparación de fugas + control de conexiones ilegales
+ARRAIJAN,4,0.3617,0.4391,48.6333,8.152,8.7234,8.7234,2,2.5717,0.4636,sectorización y control de presiones
+PANAMA OESTE,5,0.3557,0.4432,44.0267,7.2256,7.4911,7.4911,2,2.0757,0.4049,auditar micromedición y verificar reporte (alerta alta); sectorización y control de presiones
+PANAMA ESTE Y DARIEN,6,0.335,0.4954,52.9567,1.3848,1.5351,1.5351,0,0.3659,0.3606,auditar micromedición y verificar reporte (alerta alta); detección y reparación de fugas + control de conexiones ilegales
+CHIRIQUI,7,0.193,0.25,24.78,3.2564,2.3234,2.3234,1,0.4191,0.15,monitoreo preventivo
+COCLE,8,0.1453,0.2048,22.3967,1.3082,1.2145,1.2145,0,0.1684,0.15,monitoreo preventivo
+VERAGUAS,9,0.1393,0.2039,12.49,0.7184,1.1997,1.1997,0,0.0925,0.15,auditar micromedición y verificar reporte (alerta alta); monitoreo preventivo
+LOS SANTOS,10,0.0838,0.1237,10.9467,0.3583,0.7641,0.7641,0,0.0461,0.15,monitoreo preventivo; tendencia al alza: vigilar
+HERRERA,11,0.0342,0.0505,3.9133,0.1473,0.8544,0.8544,0,0.019,0.15,monitoreo preventivo; tendencia al alza: vigilar
