@@ -1,0 +1,13 @@
+region,anio,anc_pct,cambio_anc,cambio_fact,cambio_prod,tipo,severidad,estable,nota
+BOCAS DEL TORO,2006,81.74,74.93,115.81,1001.32,pico de producción,Alta,True,revisar posible cambio de reporte/medición (producción ×>2)
+BOCAS DEL TORO,2007,78.44,-3.3,114.81,81.94,otro,Alta,True,
+BOCAS DEL TORO,2005,6.81,-17.0,-17.35,-32.43,caída de facturación,Media,True,
+PANAMA ESTE Y DARIEN,2010,37.09,28.96,-22.37,13.36,caída de facturación,Alta,True,
+VERAGUAS,2009,4.38,-16.43,38.38,14.61,otro,Media,True,
+VERAGUAS,2010,24.01,19.63,-22.35,-2.3,caída de facturación,Media,True,
+LOS SANTOS,2006,8.05,9.65,21.27,33.99,pico de producción,Media,True,
+PANAMA ESTE Y DARIEN,2009,8.13,-19.2,33.7,5.76,otro,Media,False,
+BOCAS DEL TORO,2001,56.81,22.08,-8.81,37.81,pico de producción,Alta,False,
+PANAMA OESTE,2010,39.86,26.8,7.54,55.47,pico de producción,Alta,False,
+VERAGUAS,2012,37.48,27.55,6.15,52.92,pico de producción,Alta,False,
+BOCAS DEL TORO,2013,72.47,10.76,4.31,45.07,pico de producción,Media,False,
